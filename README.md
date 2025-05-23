@@ -1,12 +1,18 @@
 # Bank-Loan-Analysis
+
+
 Lending Lens: Bank Loan Analytics Dashboard
 
 An insightful, interactive Power BI dashboard built to explore and evaluate key borrower and loan characteristics—designed to assist financial institutions in risk assessment, customer segmentation, and loan portfolio management.
 
 
+
+
 📌 Short Description / Purpose
 
 The Lending Lens Dashboard provides an in-depth view into borrower profiles and loan statuses using comprehensive financial and demographic data. Built for banks, financial analysts, and data strategists, the dashboard supports informed decisions in credit risk management, marketing, and loan servicing.
+
+
 
 
 ⚙️ Tech Stack
@@ -19,10 +25,14 @@ The dashboard was developed using the following technologies:
 🗃 Data Modeling – Relationships across loan applications, credit behavior, and verification status enable cross-visual interaction
 📁 File Formats – .pbix for Power BI file and .png for preview snapshots
 
+
+
 🗂 Data Source
 
 Source: Loan performance datasets (simulated or anonymized) from internal banking systems, credit bureaus, and third-party verification services.
 The dataset includes detailed records on loan purpose, borrower demographics, income verification, DTI ratios, employment status, credit behavior, and loan terms.
+
+
 
 💡 Features / Highlights
 
@@ -78,14 +88,20 @@ The loan approval process involves steps like credit and income verification, ri
 
 Understanding borrower segmentation leads to more accurate interest rates, default forecasting, and strategic lending decisions
 
+
+
 Screenshots:
 
 Bank Loan Report - Summary
 ![image](https://github.com/user-attachments/assets/306c6599-53ec-4379-8541-848abf15d614)
 
 
+
+
 Bank Loan Report - Overview
 ![image](https://github.com/user-attachments/assets/8d66d360-6666-4c7c-9355-4da6cdc0da13)
+
+
 
 
 Bank Loan Report - Details
