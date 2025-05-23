@@ -77,3 +77,14 @@ Data fields such as DTI, employment length, loan purpose, and verification statu
 The loan approval process involves steps like credit and income verification, risk grading, and pricing
 
 Understanding borrower segmentation leads to more accurate interest rates, default forecasting, and strategic lending decisions
+
+Screenshots:
+
+![image](https://github.com/user-attachments/assets/56fda6e4-eba0-4a7c-bbdc-6bb46e2fc24e)
+
+![image](https://github.com/user-attachments/assets/8d66d360-6666-4c7c-9355-4da6cdc0da13)
+
+![image](https://github.com/user-attachments/assets/fddbf84e-1c4d-47f4-93e2-c41ba387dbf0)
+
+
+
