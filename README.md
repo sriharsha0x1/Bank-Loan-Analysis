@@ -80,10 +80,15 @@ Understanding borrower segmentation leads to more accurate interest rates, defau
 
 Screenshots:
 
-![image](https://github.com/user-attachments/assets/56fda6e4-eba0-4a7c-bbdc-6bb46e2fc24e)
+Bank Loan Report - Summary
+![image](https://github.com/user-attachments/assets/306c6599-53ec-4379-8541-848abf15d614)
 
+
+Bank Loan Report - Overview
 ![image](https://github.com/user-attachments/assets/8d66d360-6666-4c7c-9355-4da6cdc0da13)
 
+
+Bank Loan Report - Details
 ![image](https://github.com/user-attachments/assets/fddbf84e-1c4d-47f4-93e2-c41ba387dbf0)
 
 
